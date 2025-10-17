@@ -1,0 +1,13 @@
+{
+  "name": "mi-app",
+  "version": "1.0.0",
+  "description": "Una aplicación sencilla que demuestra la estructura básica de un proyecto web.",
+  "main": "script.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
